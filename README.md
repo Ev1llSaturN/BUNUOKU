@@ -1,4 +1,4 @@
-<h1><b>About Section Bla Bla</b></h1>
+<h1><b>Myself</b></h1>
 <ul>
  <li>Hello, I am a Web & Graphic Designer and Editor! I love Minecraft <3</li>
 </ul>
