@@ -3,7 +3,7 @@
  <li>Merhaba</li>
 </ul>
 <h3>
- <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_"><img src="https://img.shields.io/badge/spotify%20-7221.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_"><img src="https://img.shields.io/badge/spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </h3>
 
 
