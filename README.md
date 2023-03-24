@@ -1,4 +1,4 @@
-<h1><b>Ahm About Section Bla Bla</b></h1>
+<h1><b>About Section Bla Bla</b></h1>
 <ul>
  <li>Merhaba</li>
 </ul>
