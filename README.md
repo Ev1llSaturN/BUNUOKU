@@ -1,6 +1,6 @@
 <h1><b>About Section Bla Bla</b></h1>
 <ul>
- <li>Hello, I am a Web & Graphic Designer and Editor. I love MC & GTA Online</li>
+ <li>Hello, I am a Web & Graphic Designer and Editor (" I love MC & GTA Online ")</li>
 </ul>
 <h3>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
