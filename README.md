@@ -10,7 +10,6 @@
 </ul>
 <ul>
 </ul>
-<h3>
  <h1>Link</h1>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/spotify%20-00b321.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -20,8 +19,6 @@
   <img src="https://img.shields.io/badge/Steam%20-1A204A.svg?&style=for-the-badge&logo=STEAM&logoColor=white"></a>
  <a href="https://tr.pinterest.com/beforemyfunerallx/" target="blank_">
   <img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>
-</h3>
-
 <br>
 <h1>Spotify</h1>
 
