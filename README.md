@@ -1,4 +1,4 @@
-<h1>Skillerim 🔱</h1>
+<h1>Skillerim🔱</h1>
 <ul>
  <li><b>👨‍💻・Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı</b></li>
  <li><b>💦・HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Geliştirici</b></li>
@@ -6,7 +6,7 @@
 </ul>
 <ul>
 </ul>
- <h1>Links 🔗</h1>
+ <h1>Linkler 🔗</h1>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/spotify%20-00b321.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://discord.gg/ykzDraBk" target="blank_">
