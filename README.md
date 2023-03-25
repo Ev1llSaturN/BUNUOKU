@@ -11,5 +11,5 @@
   <img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </h3>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=09ff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/610761919808143370)](https://discord.com/users/610761919808143370)
