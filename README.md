@@ -3,6 +3,7 @@
 </h1>
 <ul>
  <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
+ <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
 </ul>
 
 <h3>
