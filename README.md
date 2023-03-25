@@ -1,6 +1,6 @@
 <h1><b>Who Am I?</b></h1>
 <ul>
- <h1>Hobies</h1>
+ <h2>Hobies</h2>
  <li>Web & Graphic Designer and Editor! Also Love Minecraft Much Much! <3</li>
  <li></li>
 </ul>
