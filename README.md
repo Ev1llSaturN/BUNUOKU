@@ -1,10 +1,10 @@
 <h1><b>Who Am I?</b></h1>
-<h3>
- <ul>
+<ul>
  <h2>Hobies</h2>
  <li>Web & Graphic Designer and Editor! Also Love Minecraft Much Much! <3</li>
  <li></li>
 </ul>
+<h3>
  <h1>Sosyal Medya Linkleri</h1>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
