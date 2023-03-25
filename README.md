@@ -1,9 +1,10 @@
 <h1>
- <b>Who Am I? & Kimim?</b>
+ <b>Info</b>
 </h1>
 <ul>
  <li><b></b></li>
 </ul>
+<h1>Interest</h1>
 <ul>
  <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı </b></li>
  <li><b>HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Geliştirici </b></li>
