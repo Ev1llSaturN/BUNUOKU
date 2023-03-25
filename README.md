@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>
 </h3>
 
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/buttons" data-color-scheme="no-preference: dark; light: dark_high_contrast; dark: dark_high_contrast;" data-size="large" aria-label="Follow @buttons on GitHub">Follow @buttons</GitHubButton>
+
 <br>
 <h1>Spotify</h1>
 
