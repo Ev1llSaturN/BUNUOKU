@@ -6,7 +6,7 @@
  
 </h2>
 <ul>
- <li>**Grafik ve Web Tabanlı Tasarımcı**<3</li>
+ <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
 </ul>
 
 <h3>
