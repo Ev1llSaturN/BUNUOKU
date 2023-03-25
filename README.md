@@ -3,7 +3,6 @@
  <li>Hello, I am a Web & Graphic Designer and Editor! I love Minecraft <3</li>
 </ul>
 <h3>
- <hr></hr>
  <h1></h1>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
