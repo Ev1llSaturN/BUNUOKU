@@ -3,7 +3,7 @@
  <li><b>👨‍💻・Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı</b></li>
  <li><b>💦・HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Geliştirici</b></li>
  <li><b>🏆・4 Yıllık Usta Tecrübeli Brawl Stars Oyuncusu & 19/09/2021 Sezon Sonuna 2 Gün TR #51 | 30/08/2021 Sezon Sonuna 1 Gün SURGE TR #1</b></li>
- <li><b>😏・Bedenden Bedene Değişiyorum Morpheus Gibiyim </b></li>
+ <li><b>😏・Bedenden Bedene Morpheus Gibiyim</b></li>
 </ul>
 <ul>
 </ul>
