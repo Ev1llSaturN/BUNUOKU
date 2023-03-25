@@ -3,9 +3,9 @@
 </h1>
 <ul>
  <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
- <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
 </ul>
-
+<ul>
+</ul>
 <h3>
  <h1>Link</h1>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
