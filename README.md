@@ -3,7 +3,7 @@
 </h1>
 <ul>
  <li><b>Gece Kodlama Yapmayı & Program Geliştirmeyi Severim</b></li>
- <li><b>4 Yıllık Brawl Stars Oyuncusu & 09/2021 Sezon Sonuna 2 Gün TR 101 </b></li>
+ <li><b>4 Yıllık Tecrübeli Brawl Stars Oyuncusu & 19/09/2021 Sezon Sonuna 2 Gün TR LİG 101.</b></li>
 </ul>
 <h1>Skills</h1>
 <ul>
