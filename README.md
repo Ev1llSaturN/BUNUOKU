@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>
 </h3>
 
-<img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&logo=pinterest&logoColor=white">
 <br>
 <h1>Spotify</h1>
 
