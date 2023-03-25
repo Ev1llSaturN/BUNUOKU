@@ -23,6 +23,7 @@
 </h3>
 
 https://img.shields.io/badge/Pinterest%20-E60023.svg?&logo=pinterest&logoColor=white
+
 <br>
 <h1>Spotify</h1>
 
