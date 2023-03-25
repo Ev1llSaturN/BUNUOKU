@@ -1,4 +1,4 @@
-<h1>Skill 🔱</h1>
+<h1>Skillerim 🔱</h1>
 <ul>
  <li><b>👨‍💻・Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı</b></li>
  <li><b>💦・HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Geliştirici</b></li>
