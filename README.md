@@ -1,7 +1,6 @@
 <h1>
- <b>
+
   **Who Am I? & Ben Kimim?**
- </b>
 </h1>
 <h2>
  
