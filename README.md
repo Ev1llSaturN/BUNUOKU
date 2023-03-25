@@ -1,5 +1,5 @@
 <h1>
-  **Who Am I? & Ben Kimim?**
+ <b>Who Am I? & Ben Kimim?</b>
 </h1>
 <ul>
  <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
