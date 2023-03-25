@@ -6,7 +6,7 @@
  
 </h2>
 <ul>
- <li>Web & Graphic Designer and Editor! Also Love Minecraft Much Much! <3</li>
+ <li>**Grafik ve Web Tabanlı Tasarımcı**<3</li>
 </ul>
 
 <h3>
