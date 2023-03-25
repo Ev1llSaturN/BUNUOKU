@@ -1,8 +1,8 @@
 <h1>Skill 🔱</h1>
 <ul>
- <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı </b></li>
- <li><b>HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Geliştirici </b></li>
- <li><b>4 Yıllık Tecrübeli Brawl Stars Oyuncusu & 19/09/2021 Sezon Sonuna 2 Gün TR LİG 101.</b></li>
+ <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı・👨‍💻</b></li>
+ <li><b>HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Geliştirici・💦</b></li>
+ <li><b>4 Yıllık Tecrübeli Brawl Stars Oyuncusu & 19/09/2021 Sezon Sonuna 2 Gün TR LİG #101・🏆</b></li>
 </ul>
 <ul>
 </ul>
