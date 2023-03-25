@@ -14,7 +14,7 @@
  <a href="https://discord.gg/ykzDraBk" target="blank_">
   <img src="https://img.shields.io/badge/discord%20-5662F6.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://steamcommunity.com/id/saturntr/" target="blank_">
-  <img src="https://img.shields.io/badge/Steam%20-0562951.svg?&style=for-the-badge&logo=STEAM&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Steam%20-1A204A.svg?&style=for-the-badge&logo=STEAM&logoColor=white"></a>
  <a href="https://tr.pinterest.com/beforemyfunerallx/" target="blank_">
   <img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <br>
