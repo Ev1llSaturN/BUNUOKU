@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>
 </h3>
 
+<GitHubButton href="https://github.com/buttons" data-color-scheme="no-preference: dark; light: 
 <br>
 <h1>Spotify</h1>
 
