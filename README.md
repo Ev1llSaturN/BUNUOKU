@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://discord.gg/ykzDraBk" target="blank_">
   <img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://socialclub.rockstargames.com/member/SaturnKral" target="blank_">
+  <img src="https://img.shields.io/badge/Steam%20-1A204A.svg?&style=for-the-badge&logo=STEAM&logoColor=white"></a>
 </h3>
 
 <br>
