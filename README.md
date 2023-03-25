@@ -1,6 +1,6 @@
 <h1><b>Who Am I?</b></h1>
 <ul>
- <li>Hello, I am a Web & Graphic Designer and Editor! I love Minecraft <3</li>
+ <li>Hello, I am a Web & Graphic Designer and Editor! Also I Love Playing Minecraft so much ! <3</li>
 </ul>
 <h3>
  <h1>Sosyal Medya Linkleri</h1>
