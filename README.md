@@ -2,9 +2,6 @@
 
   **Who Am I? & Ben Kimim?**
 </h1>
-<h2>
- 
-</h2>
 <ul>
  <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
 </ul>
