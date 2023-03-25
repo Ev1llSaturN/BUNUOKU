@@ -2,7 +2,7 @@
  <b>Who Am I? & Kimim?</b>
 </h1>
 <ul>
- <li><b>Grafik ve Web Tabanlı Tasarımcı</b></li>
+ <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı</b></li>
 </ul>
 <ul>
 </ul>
