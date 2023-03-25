@@ -2,7 +2,8 @@
  <b>Who Am I? & Kimim?</b>
 </h1>
 <ul>
- <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı</b></li>
+ <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı ✅</b></li>
+ <li><b>HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dillerinde Geliştirici ✅</b></li>
 </ul>
 <ul>
 </ul>
