@@ -2,8 +2,8 @@
  <b>Who Am I? & Kimim?</b>
 </h1>
 <ul>
- <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı ✅</b></li>
- <li><b>HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dillerinde Geliştirici ✅</b></li>
+ <li><b>Grafik & Web & Windows x64 / x32 / x86 Tabanlı Tasarımcı </b></li>
+ <li><b>HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dillerinde Geliştirici </b></li>
 </ul>
 <ul>
 </ul>
@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/Pinterest%20-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>
 </h3>
 
-<!-- Place this tag where you want the button to render. -->
-<GitHubButton href="https://github.com/buttons" data-color-scheme="no-preference: dark; light: dark_high_contrast; dark: dark_high_contrast;" data-size="large" aria-label="Follow @buttons on GitHub">Follow @buttons</GitHubButton>
+<href="https://github.com/buttons" data-color-scheme="no-preference: dark; light: dark_high_contrast; dark: dark_high_contrast;" data-size="large" aria-label="Follow @buttons on GitHub">Follow @buttons>
 
 <br>
 <h1>Spotify</h1>
