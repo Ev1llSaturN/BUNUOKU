@@ -1,4 +1,4 @@
-<h1>Skillerim🔱</h1>
+<h1>𐍃𐌰𐍄𐌵𐌺𐌽🔱</h1>
 <ul>
  <li><b>👨‍💻・Grafik & Web & Windows x64 / x32 / x86 Çekirdek Tabanlı Geliştirici & Tasarımcı</b></li>
  <li><b>💦・HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Program Geliştirici</b></li>
