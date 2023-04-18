@@ -1,6 +1,6 @@
 <h1>𐍃𐌰𐍄𐌵𐌺𐌽🔱</h1>
 <ul>
- <li><b>👨‍💻・Grafik & Web & Windows x64 / x32 / x86 Çekirdek Tabanlı Geliştirici & Tasarımcı</b></li>
+ <li><b>👨‍💻・Windows x64 / x32 / x86 Geliştirici & Tasarımcı</b></li>
  <li><b>💦・HTML & CSS & JAVASCRIPT & C# & C++ & PHP Dilinde Program Geliştirici</b></li>
  <li><b>🏆・4 Yıllık Usta Tecrübeli Brawl Stars Oyuncusu & 19/09/2021 Sezon Sonuna 2 Gün TR #51</b></li>
  <li><b>🥇・30/08/2021 Sezon Sonuna 1 Gün SURGE TR #1</b></li>
